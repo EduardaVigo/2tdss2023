@@ -11,7 +11,7 @@ export default class App extends React.Component {
         <Text style={[styles.smallText, styles.textStyle]}>Light Cloud</Text>
         <Text style={[styles.largeText, styles.textStyle]}>24º</Text>
 
-        <CustomInput placeholder='Search and City' />
+        <CustomInput placeholder='Search and Citys' />
 
         <StatusBar style="auto" />
       </View>
